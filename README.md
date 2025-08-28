@@ -1,9 +1,6 @@
-<!-- Calligraphy Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tushitchakraborty/tushitchakraborty/main/tushit-banner.png" alt="Tushit Chakraborty" width="800"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Tushit%20Chakraborty%20✨&width=800&height=200" alt="Tushit Chakraborty"/>
 </p>
-
-
 ---
 
 ## 👨‍💻 About Me  
