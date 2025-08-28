@@ -59,6 +59,18 @@
 
 ---
 
+## 🧑‍💻 Languages I Use  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushitchakraborty&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushitchakraborty&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushitchakraborty&layout=pie&theme=radical" height="250"/>
+</p>
+
+---
+
 ## 📫 Connect With Me  
 <p align="center">
   <a href="mailto:tushit.2001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
