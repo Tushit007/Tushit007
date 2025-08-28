@@ -49,24 +49,24 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushitchakraborty&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tushitchakraborty&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushit007&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tushit007&theme=radical" height="170"/>
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushitchakraborty&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushit007&theme=react-dark" />
 </p>
 
 ---
 
 ## 🧑‍💻 Languages I Use  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushitchakraborty&theme=radical" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushitchakraborty&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tushit007&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tushit007&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushitchakraborty&layout=pie&theme=radical" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushit007&layout=pie&theme=radical" height="250"/>
 </p>
 
 ---
