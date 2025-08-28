@@ -74,8 +74,8 @@
 ## 📫 Connect With Me  
 <p align="center">
   <a href="mailto:tushit.2001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://linkedin.com/in/tushitchakraborty"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/tushitchakraborty"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.linkedin.com/in/tushit007?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/Tushit007"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
