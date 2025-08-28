@@ -9,6 +9,13 @@
 ⚡ Always curious to learn, experiment, and contribute to open-source.  
 
 ---
+<!-- Animated Typing Banner -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;+I'm+Tushit+Chakraborty!;Full+Stack+Developer+💻;Passionate+about+Web+%26+AI;Building+real-time+apps+🚀)
+
+<!-- Coding + Coffee GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG15YmVobDZ0cTJmb3A0dnplYWh0bWZsMW5scm15dDAwczhzZnQxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding with Coffee" width="450"/>
+</p>
 
 ## 🔭 I’m currently working on  
 - **Docpen** → Real-time collaborative markdown editor using **Next.js + Liveblocks + Clerk**  
