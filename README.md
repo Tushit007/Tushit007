@@ -39,7 +39,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,sql" height="45" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" height="45" />
 <img src="https://skillicons.dev/icons?i=html,css,scss,react,nextjs,tailwind" height="45" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,docker" height="45" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" height="45" />
